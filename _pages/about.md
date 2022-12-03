@@ -15,7 +15,7 @@ During grad school, I visited the University of Macau, where I was working with 
 
 Research Interests
 ======
-My main research area is algorithm design which is part of theoretical computer science. Specifically, I am interested in designing efficient algorithms with provable guarantees for problems arising from machine learning, artificial intelligence, and economic computations. Some particular models I am investigating are scheduling, fair division, and online problems with predictions. More broadly, I am interested in Approximation Algorithms and Combinatorial Optimization.
+My main research area is algorithm design which is part of theoretical computer science. Specifically, I am interested in designing efficient algorithms with provable guarantees for problems arising from machine learning, artificial intelligence, and economic computations. Some particular models I am investigating are scheduling, fair division, and online problems with predictions. More broadly, I am interested in approximation algorithms and combinatorial optimization.
 
 
 Getting started
