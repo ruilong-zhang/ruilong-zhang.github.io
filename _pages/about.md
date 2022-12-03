@@ -27,6 +27,7 @@ Preprints:
 * Scheduling with Calibration for Multi-interval Jobs. <br />
   [Vincent Chau](),  <br />
     Under review in Algorithmica, 2021.
+    
 Conferences:
 ------
 * Online Dynamic Acknowledgement with Learned Predictions. <br />
@@ -35,12 +36,14 @@ Conferences:
 * Min-max Submodular Ranking for Multiple Agents. <br />
   [Qingyun Chen](), [Sungjin Im](https://faculty.ucmerced.edu/sim3/), [Ben Moseley](https://www.andrew.cmu.edu/user/moseleyb/), [Chenyan Xu](), Ruilong Zhang <br />
   Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023).
-* Multiagent MST Cover: Pleasing All Optimally via A Simple Voting Rule ([pdf](https://arxiv.org/abs/2211.13578)). <br />
+* Multiagent MST Cover: Pleasing All Optimally via A Simple Voting Rule. ([pdf](https://arxiv.org/abs/2211.13578)) <br />
   [Bo Li](https://www4.comp.polyu.edu.hk/~bo2li/), [Xiaowei Wu](https://sites.google.com/site/wxw0711/), [Chenyang Xu](), Ruilong Zhang <br />
   Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023).
 * Fair Scheduling for Time-dependent Resource.
 * Improved Scheduling with a Shared Resource via Structural Insights.
 * Minimizing the Cost of Batch Calibrations.
+
+
 Journals:
 ------
 Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
