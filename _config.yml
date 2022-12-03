@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ruilong Zhang (张瑞龙)"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Ruilong Zhang"
 description              : &description "personal description"
 url                      : https://ruilong-zhang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
