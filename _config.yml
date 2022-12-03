@@ -56,19 +56,19 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-#twitter:
- # username               : &twitter
-#facebook:
- # username               :
-  #app_id                 :
-  #publisher              :
-#og_image                 :  # Open Graph/Twitter default site image
+twitter:
+  username               : &twitter
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
+og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
-#social:
- # type                   : # Person or Organization (defaults to Person)
-  #name                   : # If the user or organization name differs from the site's name
-  #links: # An array of links to social media profiles
+social:
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
 
 
 # Analytics
@@ -85,8 +85,8 @@ author:
   bio              : "Ph.D. Student"
   location         : "Hong Kong"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=ZNt8U4UAAAAJ"
   email            : ruilongzhang.cn@gmail.com
   #email            : ruilzhang4-c@my.cityu.edu.hk
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -95,22 +95,22 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  #facebook         :
   foursquare       :
-  github           : "academicpages"
+  #github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         :  "https://www.linkedin.com/in/ruilong-zhang-901883172/"
+  #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  #twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
