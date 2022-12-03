@@ -82,12 +82,13 @@ analytics:
 author:
   name             : "Ruilong Zhang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D. Student"
   location         : "Hong Kong"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : ruilongzhang.cn@gmail.com or ruilzhang4-c@my.cityu.edu.hk
+  email            : ruilongzhang.cn@gmail.com
+  email            : ruilzhang4-c@my.cityu.edu.hk
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
