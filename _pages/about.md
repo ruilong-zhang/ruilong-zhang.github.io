@@ -12,7 +12,9 @@ I am a Ph.D. student in the Department of Computer Science at the City Universit
 
 During grad school, I visited the University of Macau, where I was working with Prof. [Xiaowei Wu](https://sites.google.com/site/wxw0711/). I also visited Carnegie Mellon University, where I was working with Prof. [Ben Moseley](https://www.andrew.cmu.edu/user/moseleyb/) and Prof. [Sungjin Im](https://faculty.ucmerced.edu/sim3/). I was also a visiting student at the University of Hamburg, working with Prof. [Peter Kling](https://academic.pkling.de/).
 
-More information can be found in my [CV](/files/CV.pdf). I am reachable via ruilzhang4-c@my.cityu.edu.hk or ruilongzhang.cn@gmail.com.
+More information can be found in my [CV](/files/CV.pdf) (Last updated: Dec 03, 2022). 
+
+Email: ruilzhang4-c@my.cityu.edu.hk or ruilongzhang.cn@gmail.com.
 
 
 Research Interests
@@ -58,3 +60,9 @@ Journals:
   [Vincent Chau](https://cse.seu.edu.cn/2021/0318/c23024a364637/pagem.htm), [Minming Li](https://www.cs.cityu.edu.hk/~minmli/), Yinling Wang, Ruilong Zhang, Yingchao Zhao. <br />
   Theoretical Computer Science (2020). <br />
   A preliminary version appears in COCOON 2019.
+  
+  
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=n&d=2rhhoH7WBkKYgl0_ZfYoJYNvtdugB1TAWbKt6TOSJqM'></script>
+  
+ 
+ Last updated: Dec 03, 2022.
