@@ -12,7 +12,7 @@ I am a Ph.D. student in the Department of Computer Science at the City Universit
 
 During grad school, I visited the University of Macau, where I was working with Prof. [Xiaowei Wu](https://sites.google.com/site/wxw0711/). I also visited Carnegie Mellon University, where I was working with Prof. [Ben Moseley](https://www.andrew.cmu.edu/user/moseleyb/) and Prof. [Sungjin Im](https://faculty.ucmerced.edu/sim3/). I was also a visiting student at the University of Hamburg, working with Prof. [Peter Kling](https://academic.pkling.de/).
 
-I am reachable via ruilzhang4-c@my.cityu.edu.hk or ruilongzhang.cn@gmail.com
+I am reachable via ruilzhang4-c@my.cityu.edu.hk or ruilongzhang.cn@gmail.com.
 
 
 Research Interests
@@ -23,9 +23,6 @@ My main research area is algorithm design which is part of theoretical computer 
 Publications
 ======
 Per convention of the community, authors of a paper in TCS conference proceedings or journals have equal contribution and are sorted alphabetically.
-
-Preprints:
-------
     
 Conferences:
 ------
