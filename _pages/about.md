@@ -24,9 +24,6 @@ Per convention of the community, authors of a paper in TCS conference proceeding
 
 Preprints:
 ------
-* Scheduling with Calibration for Multi-interval Jobs. <br />
-  [Vincent Chau](https://cse.seu.edu.cn/2021/0318/c23024a364637/pagem.htm),  <br />
-    Under review in Algorithmica, 2021.
     
 Conferences:
 ------
@@ -39,18 +36,26 @@ Conferences:
 * Multiagent MST Cover: Pleasing All Optimally via A Simple Voting Rule. ([Full version](https://arxiv.org/abs/2211.13578)) <br />
   [Bo Li](https://www4.comp.polyu.edu.hk/~bo2li/), [Xiaowei Wu](https://sites.google.com/site/wxw0711/), [Chenyang Xu](), Ruilong Zhang. <br />
   Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023).
-* Fair Scheduling for Time-dependent Resource. ([pdf](https://proceedings.neurips.cc/paper/2021/file/b5b1d9ada94bb80609d21eecf7a2ce7a-Paper.pdf))([Full version](https://arxiv.org/abs/2107.11648)) <br />
+* Fair Scheduling for Time-dependent Resource. ([Pdf](https://proceedings.neurips.cc/paper/2021/file/b5b1d9ada94bb80609d21eecf7a2ce7a-Paper.pdf)) ([Full version](https://arxiv.org/abs/2107.11648)) <br />
   [Bo Li](https://www4.comp.polyu.edu.hk/~bo2li/), [Minming Li](https://www.cs.cityu.edu.hk/~minmli/), Ruilong Zhang. <br />
   Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS 2021).
-* Improved Scheduling with a Shared Resource via Structural Insights. <br />
+* Improved Scheduling with a Shared Resource via Structural Insights. ([Pdf](https://link.springer.com/content/pdf/10.1007/978-3-030-64843-5_12.pdf?pdf=inline%20link)) <br />
   Christoph Damerius, [Peter Kling](https://academic.pkling.de/), [Minming Li](https://www.cs.cityu.edu.hk/~minmli/), Florian Schneider, Ruilong Zhang. <br />
   The 14th Annual International Conference on Combinatorial Optimization and Applications (COCOA 2020).
-* Minimizing the Cost of Batch Calibrations. ([pdf](https://link.springer.com/content/pdf/10.1007/978-3-030-26176-4_7.pdf)) <br />
+* Minimizing the Cost of Batch Calibrations. ([Pdf](https://link.springer.com/content/pdf/10.1007/978-3-030-26176-4_7.pdf)) <br />
   [Vincent Chau](https://cse.seu.edu.cn/2021/0318/c23024a364637/pagem.htm), [Minming Li](https://www.cs.cityu.edu.hk/~minmli/), Yinling Wang, Ruilong Zhang, Yingchao Zhao. <br />
   The 25th International Computing and Combinatorics Conference (COCOON 2019).
 
 
 Journals:
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
+* Online Scheduling of Paralleizable jobs in the Directed Acyclic Graphs and Speed-up Curves Models. ([Pdf](https://www.sciencedirect.com/science/article/pii/S0304397522005898)) <br />
+  [Ben Moseley](https://www.andrew.cmu.edu/user/moseleyb/), Ruilong Zhang, Shanjiawen Zhao. <br />
+  Theoretical Computer Science (2022).
+* A Note on the Online Interval Scheduling Secretary Problem. ([Pdf](https://www.sciencedirect.com/science/article/pii/S0167637721001772)) <br />
+  [Bo Li](https://www4.comp.polyu.edu.hk/~bo2li/), [Chenhao Wang](https://chenhwang4.github.io/homepage/), Ruilong Zhang. <br />
+  Operations Research Letters (2022).
+* Minimizing the Cost of Batch Calibrations. ([Pdf](https://www.sciencedirect.com/science/article/pii/S0304397520302309)) <br />
+  [Vincent Chau](https://cse.seu.edu.cn/2021/0318/c23024a364637/pagem.htm), [Minming Li](https://www.cs.cityu.edu.hk/~minmli/), Yinling Wang, Ruilong Zhang, Yingchao Zhao. <br />
+  Theoretical Computer Science (2020). <br />
+  A preliminary version appears in COCOON 2019.
