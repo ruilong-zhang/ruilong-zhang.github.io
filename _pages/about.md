@@ -31,7 +31,7 @@ Conferences:
 * Online Dynamic Acknowledgement with Learned Predictions. <br />
   [Sungjin Im](https://faculty.ucmerced.edu/sim3/), [Ben Moseley](https://www.andrew.cmu.edu/user/moseleyb/), [Chenyang Xu](), Ruilong Zhang. <br />
   IEEE International Conference on Computer Communications 2023 (INFOCOM 2023).
-* Min-max Submodular Ranking for Multiple Agents. <br />
+* Min-max Submodular Ranking for Multiple Agents. ([Full version](http://arxiv.org/abs/2212.07682)) <br />
   [Qingyun Chen](https://qychen44.github.io/), [Sungjin Im](https://faculty.ucmerced.edu/sim3/), [Ben Moseley](https://www.andrew.cmu.edu/user/moseleyb/), [Chenyang Xu](), Ruilong Zhang. <br />
   Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023).
 * Multiagent MST Cover: Pleasing All Optimally via A Simple Voting Rule. ([Full version](https://arxiv.org/abs/2211.13578)) <br />
