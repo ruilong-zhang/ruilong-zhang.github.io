@@ -16,7 +16,7 @@ During grad school, I visited the University of Macau, where I was working with 
 
 More information can be found in my [CV](/files/CV.pdf) (Last updated: Dec 03, 2022). 
 
-Email: ruilzhang4-c@my.cityu.edu.hk or ruilongzhang.cn@gmail.com.
+Email: ruilongzhang.cn@gmail.com.
 
 
 Research Interests
