@@ -33,32 +33,32 @@ Conferences:
 * Online Dynamic Acknowledgement with Learned Predictions. <br />
   [Sungjin Im](https://faculty.ucmerced.edu/sim3/), [Ben Moseley](https://www.andrew.cmu.edu/user/moseleyb/), [Chenyang Xu](), Ruilong Zhang. <br />
   IEEE International Conference on Computer Communications 2023 (INFOCOM 2023).
-* Min-max Submodular Ranking for Multiple Agents. ([Full version](http://arxiv.org/abs/2212.07682)) <br />
+* Min-max Submodular Ranking for Multiple Agents. ([Full Version](http://arxiv.org/abs/2212.07682)) <br />
   [Qingyun Chen](https://qychen44.github.io/), [Sungjin Im](https://faculty.ucmerced.edu/sim3/), [Ben Moseley](https://www.andrew.cmu.edu/user/moseleyb/), [Chenyang Xu](), Ruilong Zhang. <br />
   Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023).
-* Multiagent MST Cover: Pleasing All Optimally via A Simple Voting Rule. ([Full version](https://arxiv.org/abs/2211.13578)) <br />
+* Multiagent MST Cover: Pleasing All Optimally via A Simple Voting Rule. ([Full Version](https://arxiv.org/abs/2211.13578)) <br />
   [Bo Li](https://www4.comp.polyu.edu.hk/~bo2li/), [Xiaowei Wu](https://sites.google.com/site/wxw0711/), [Chenyang Xu](), Ruilong Zhang. <br />
   Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023).
-* Fair Scheduling for Time-dependent Resource. ([Pdf](https://proceedings.neurips.cc/paper/2021/file/b5b1d9ada94bb80609d21eecf7a2ce7a-Paper.pdf)) ([Full version](https://arxiv.org/abs/2107.11648)) <br />
+* Fair Scheduling for Time-dependent Resource. ([Link](https://proceedings.neurips.cc/paper/2021/file/b5b1d9ada94bb80609d21eecf7a2ce7a-Paper.pdf)) ([Full Version](https://arxiv.org/abs/2107.11648)) <br />
   [Bo Li](https://www4.comp.polyu.edu.hk/~bo2li/), [Minming Li](https://www.cs.cityu.edu.hk/~minmli/), Ruilong Zhang. <br />
   Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS 2021).
-* Improved Scheduling with a Shared Resource via Structural Insights. ([Pdf](https://link.springer.com/content/pdf/10.1007/978-3-030-64843-5_12.pdf?pdf=inline%20link)) <br />
+* Improved Scheduling with a Shared Resource via Structural Insights. ([Link](https://link.springer.com/content/pdf/10.1007/978-3-030-64843-5_12.pdf?pdf=inline%20link)) <br />
   Christoph Damerius, [Peter Kling](https://academic.pkling.de/), [Minming Li](https://www.cs.cityu.edu.hk/~minmli/), Florian Schneider, Ruilong Zhang. <br />
   The 14th Annual International Conference on Combinatorial Optimization and Applications (COCOA 2020).
-* Minimizing the Cost of Batch Calibrations. ([Pdf](https://link.springer.com/content/pdf/10.1007/978-3-030-26176-4_7.pdf)) <br />
+* Minimizing the Cost of Batch Calibrations. ([Link](https://link.springer.com/content/pdf/10.1007/978-3-030-26176-4_7.pdf)) <br />
   [Vincent Chau](https://cse.seu.edu.cn/2021/0318/c23024a364637/pagem.htm), [Minming Li](https://www.cs.cityu.edu.hk/~minmli/), Yinling Wang, Ruilong Zhang, Yingchao Zhao. <br />
   The 25th International Computing and Combinatorics Conference (COCOON 2019).
 
 
 Journals:
 ------
-* Online Scheduling of Paralleizable jobs in the Directed Acyclic Graphs and Speed-up Curves Models. ([Pdf](https://www.sciencedirect.com/science/article/pii/S0304397522005898)) <br />
+* Online Scheduling of Paralleizable jobs in the Directed Acyclic Graphs and Speed-up Curves Models. ([Link](https://www.sciencedirect.com/science/article/pii/S0304397522005898)) <br />
   [Ben Moseley](https://www.andrew.cmu.edu/user/moseleyb/), Ruilong Zhang, Shanjiawen Zhao. <br />
   Theoretical Computer Science (2022).
-* A Note on the Online Interval Scheduling Secretary Problem. ([Pdf](https://www.sciencedirect.com/science/article/pii/S0167637721001772)) <br />
+* A Note on the Online Interval Scheduling Secretary Problem. ([Link](https://www.sciencedirect.com/science/article/pii/S0167637721001772)) <br />
   [Bo Li](https://www4.comp.polyu.edu.hk/~bo2li/), [Chenhao Wang](https://chenhwang4.github.io/homepage/), Ruilong Zhang. <br />
   Operations Research Letters (2022).
-* Minimizing the Cost of Batch Calibrations. ([Pdf](https://www.sciencedirect.com/science/article/pii/S0304397520302309)) <br />
+* Minimizing the Cost of Batch Calibrations. ([Link](https://www.sciencedirect.com/science/article/pii/S0304397520302309)) <br />
   [Vincent Chau](https://cse.seu.edu.cn/2021/0318/c23024a364637/pagem.htm), [Minming Li](https://www.cs.cityu.edu.hk/~minmli/), Yinling Wang, Ruilong Zhang, Yingchao Zhao. <br />
   Theoretical Computer Science (2020). <br />
   A preliminary version appears in COCOON 2019.
