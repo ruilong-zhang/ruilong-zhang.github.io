@@ -86,7 +86,7 @@ author:
   location         : "Buffalo"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=ZNt8U4UAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?hl=zh-CN&user=ZNt8U4UAAAAJ"
   email            : ruilongzhang.cn@gmail.com
   #email            : ruilzhang4-c@my.cityu.edu.hk
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -97,13 +97,13 @@ author:
   flickr           :
   #facebook         :
   foursquare       :
-  github           : "https://github.com/ruilong-zhang?tab=repositories"
+  github           : #"https://github.com/ruilong-zhang?tab=repositories"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :  "https://www.linkedin.com/in/ruilong-zhang-901883172/"
+  linkedin         :  #"https://www.linkedin.com/in/ruilong-zhang-901883172/"
   #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
