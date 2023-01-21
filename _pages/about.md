@@ -18,6 +18,8 @@ More information can be found in my [CV](/files/CV.pdf) (Last updated: Dec 03, 2
 
 Email: ruilongzhang.cn@gmail.com.
 
+Here is my [DBLP](https://dblp.org/pid/233/6329.html).
+
 
 Research Interests
 ======
