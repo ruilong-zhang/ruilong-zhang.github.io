@@ -79,9 +79,9 @@ Journals:
   Theoretical Computer Science (2020). <br />
   A preliminary version appears in COCOON 2019.
   
-  
-<a href='https://clustrmaps.com/site/1brpd'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=400&t=n&d=2rhhoH7WBkKYgl0_ZfYoJYNvtdugB1TAWbKt6TOSJqM'/></a>
-
+<!--  
+<a href='https://clustrmaps.com/site/1brpd'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=400&t=n&d=2rhhoH7WBkKYgl0_ZfYoJYNvtdugB1TAWbKt6TOSJqM'/></a> 
+-->
 
  
 Last updated: Dec 03, 2022.
