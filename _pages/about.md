@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Ruilong's Page"
 excerpt: "Ruilong's Page"
 author_profile: true
 redirect_from: 
