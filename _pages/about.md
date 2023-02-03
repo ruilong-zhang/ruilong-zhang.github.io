@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoc in the Department of Computer Science and Engineering at the University at Buffalo, where I am working with Prof. [Shi Li](https://cse.buffalo.edu/~shil/). 
+[Shi Li]: https://cse.buffalo.edu/~shil/
+[Minming Li]: https://www.cs.cityu.edu.hk/~minmli/
 
-Previously, I was a Ph.D. student in the Department of Computer Science at the City University of Hong Kong, where I was fortunate to be advised by Prof. [Minming Li](https://www.cs.cityu.edu.hk/~minmli/). Before that, I was an undergrad in Computer Science and Technology at the Hefei University of Technology.
+
+I am currently a postdoc in the Department of Computer Science and Engineering at the University at Buffalo, where I am working with Prof. [Shi Li]. 
+
+Previously, I was a Ph.D. student in the Department of Computer Science at the City University of Hong Kong, where I was fortunate to be advised by Prof. [Minming Li]. Before that, I was an undergrad in Computer Science and Technology at the Hefei University of Technology.
 
 During grad school, I visited the University of Macau, where I was working with Prof. [Xiaowei Wu](https://sites.google.com/site/wxw0711/). I also visited Carnegie Mellon University, where I was working with Prof. [Ben Moseley](https://www.andrew.cmu.edu/user/moseleyb/) and Prof. [Sungjin Im](https://faculty.ucmerced.edu/sim3/). I was also a visiting student at the University of Hamburg, working with Prof. [Peter Kling](https://academic.pkling.de/).
 
