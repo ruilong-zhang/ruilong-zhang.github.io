@@ -28,7 +28,7 @@ Previously, I was a Ph.D. student in the Department of Computer Science at the C
 
 During grad school, I visited the University of Macau, where I was working with Prof. [Xiaowei Wu]. I also visited Carnegie Mellon University, where I was working with Prof. [Ben Moseley] and Prof. [Sungjin Im]. I was also a visiting student at the University of Hamburg, working with Prof. [Peter Kling].
 
-More information can be found in my [CV](/files/CV1.pdf) (Last updated: Dec 03, 2022). 
+More information can be found in my [CV](/files/CV.pdf) (Last updated: Dec 03, 2022). 
 
 Email: ruilongzhang.cn@gmail.com.
 
