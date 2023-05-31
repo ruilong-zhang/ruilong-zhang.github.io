@@ -46,7 +46,7 @@ Per convention of the community, authors of a paper in TCS conference proceeding
     
 Conferences:
 ------
-* Online Dynamic Acknowledgement with Learned Predictions. <br />
+* Online Dynamic Acknowledgement with Learned Predictions. ([Full Version](https://arxiv.org/abs/2305.18227)) <br />
   [Sungjin Im], [Ben Moseley], [Chenyang Xu], Ruilong Zhang. <br />
   IEEE International Conference on Computer Communications 2023 (INFOCOM 2023).
 * Min-max Submodular Ranking for Multiple Agents. ([Full Version](http://arxiv.org/abs/2212.07682)) <br />
