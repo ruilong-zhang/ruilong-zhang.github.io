@@ -48,22 +48,22 @@ Per convention of the TCS community, authors of a paper in conference proceeding
     
 Conferences:
 ------
-* Public Events Scheduling with Busy Agents. [Full Version](https://arxiv.org/abs/2404.11879) <br />
+* Public Events Scheduling with Busy Agents. [(Full Version)](https://arxiv.org/abs/2404.11879) <br />
   [Bo Li], [Lijun Li], [Minming Li], Ruilong Zhang. <br />
   IJCAI 2024.
-* Polylogarithmic Approximations for Robust s-t Path. [Full Version](https://arxiv.org/abs/2305.16439) <br />
+* Polylogarithmic Approximations for Robust s-t Path. [(Full Version)](https://arxiv.org/abs/2305.16439) <br />
   [Shi Li], [Chenyang Xu], Ruilong Zhang. <br />
   ICALP 2024
-* Sampling for Beyond-Worst-Case Online Ranking. [Link](https://ojs.aaai.org/index.php/AAAI/article/view/30051) <br />
+* Sampling for Beyond-Worst-Case Online Ranking. [(Link)](https://ojs.aaai.org/index.php/AAAI/article/view/30051) <br />
   [Qingyun Chen], [Sungjin Im], [Ben Moseley], [Chenyang Xu], Ruilong Zhang. <br />
   AAAI 2024.
-* Auction Design for Value Maximizers with Budget Constraints and Return-on-spend Constraints. [Full Version](https://arxiv.org/abs/2307.04302) <br/>
+* Auction Design for Value Maximizers with Budget Constraints and Return-on-spend Constraints. [(Full Version)](https://arxiv.org/abs/2307.04302) <br/>
   [Pinyan Lu], [Chenyang Xu], Ruilong Zhang. <br />
   WINE 2023
-* Scheduling with a Limited Testing Budget. [Full Version](https://arxiv.org/abs/2306.15597) <br />
+* Scheduling with a Limited Testing Budget. [(Full Version)](https://arxiv.org/abs/2306.15597) <br />
   Christoph Damerius, [Peter Kling], [Minming Li], [Chenyang Xu], Ruilong Zhang. <br />
   ESA 2023.
-* Online State Exploration: Competitive Worst Case and Learning-Augmented Algorithms. [Link](https://link.springer.com/chapter/10.1007/978-3-031-43421-1_20) <br />
+* Online State Exploration: Competitive Worst Case and Learning-Augmented Algorithms. [(Link)](https://link.springer.com/chapter/10.1007/978-3-031-43421-1_20) <br />
   [Sungjin Im], [Ben Moseley], [Chenyang Xu], Ruilong Zhang. <br />
   ECML/PKDD 2023.
 * Online Dynamic Acknowledgement with Learned Predictions. ([Full Version](https://arxiv.org/abs/2305.18227)) <br />
