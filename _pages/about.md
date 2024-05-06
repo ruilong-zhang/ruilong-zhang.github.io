@@ -23,9 +23,9 @@ redirect_from:
 [Vincent Chau]: https://cse.seu.edu.cn/2021/0318/c23024a364637/pagem.htm
 [Lijun Li]: https://lijunli1211.github.io/
 
-I am currently an incomping postdoc at the University of Toronto. Previously, I was a postdoc in the Department of Computer Science and Engineering at the University at Buffalo, where I was advised by Prof. [Shi Li]. Before that, I was a Ph.D. student in the Department of Computer Science at the City University of Hong Kong, where I was supervised by Prof. [Minming Li]. Before that, I was an undergrad in Computer Science and Technology at the Hefei University of Technology.
+I am currently an incoming postdoc at the University of Toronto. Previously, I was a postdoc in the Department of Computer Science and Engineering at the University at Buffalo, where I was advised by Prof. [Shi Li]. Before that, I was a Ph.D. student in the Department of Computer Science at the City University of Hong Kong, where I was supervised by Prof. [Minming Li]. Before that, I was an undergrad in Computer Science and Technology at the Hefei University of Technology.
 
-During my grad school and postdoc, I was a long term visitor at Carnegie Mellon University, where I was working with Prof. [Ben Moseley] and Prof. [Sungjin Im]. I was also a short-term visitor in [Theory Group](https://tcs.nju.edu.cn/) at Nanjing University, in Prof. [Xiaowei Wu]'s group at the University of Macau, in Prof. [Peter Kling]'s group at the University of Hamburg.
+During my grad school and postdoc, I was a long-term visitor at Carnegie Mellon University, where I worked with Prof. [Ben Moseley] and Prof. [Sungjin Im]. I was also a short-term visitor in [Theory Group](https://tcs.nju.edu.cn/) at Nanjing University, in Prof. [Xiaowei Wu]'s group at the University of Macau, in Prof. [Peter Kling]'s group at the University of Hamburg.
 
 More information can be found in my [CV](/files/CV.pdf) (Last updated: Dec 03, 2022). 
 
@@ -37,53 +37,53 @@ Here is my [DBLP](https://dblp.org/pid/233/6329.html).
 Research Interests
 ======
 I am broadly interested in algorithm design and analysis for combinatorial optimization problems. More specifically, I aim to design approximation and online algorithms with worst-case guarantees under different computational models: offline, online, computational economics, machine learning, and artificial intelligence.
-* Approximation and Online Algorithms on Combinatroial Optimization <br />
+* Approximation and Online Algorithms on Combinatorial Optimization <br />
 * Scheduling and Network Design <br />
 * Algorithmic Fairness; Multiagent System; Machine Learning Foundations <br />
 
 
 Publications
 ======
-Per convention of the TCS community, authors of a paper in conference proceedings or journals have equal contribution and are sorted alphabetically.
+Per convention of the TCS community, authors of a paper in conference proceedings or journals have equal contributions and are sorted alphabetically.
     
 Conferences:
 ------
 * Public Events Scheduling with Busy Agents. [(Full Version)](https://arxiv.org/abs/2404.11879) <br />
   [Bo Li], [Lijun Li], [Minming Li], Ruilong Zhang. <br />
-  IJCAI 2024.
+  IJCAI 2024
 * Polylogarithmic Approximations for Robust s-t Path. [(Full Version)](https://arxiv.org/abs/2305.16439) <br />
   [Shi Li], [Chenyang Xu], Ruilong Zhang. <br />
   ICALP 2024
 * Sampling for Beyond-Worst-Case Online Ranking. [(Link)](https://ojs.aaai.org/index.php/AAAI/article/view/30051) <br />
   [Qingyun Chen], [Sungjin Im], [Ben Moseley], [Chenyang Xu], Ruilong Zhang. <br />
-  AAAI 2024.
+  AAAI 2024
 * Auction Design for Value Maximizers with Budget Constraints and Return-on-spend Constraints. [(Full Version)](https://arxiv.org/abs/2307.04302) <br/>
   [Pinyan Lu], [Chenyang Xu], Ruilong Zhang. <br />
   WINE 2023
 * Scheduling with a Limited Testing Budget. [(Full Version)](https://arxiv.org/abs/2306.15597) <br />
   Christoph Damerius, [Peter Kling], [Minming Li], [Chenyang Xu], Ruilong Zhang. <br />
-  ESA 2023.
+  ESA 2023
 * Online State Exploration: Competitive Worst Case and Learning-Augmented Algorithms. [(Link)](https://link.springer.com/chapter/10.1007/978-3-031-43421-1_20) <br />
   [Sungjin Im], [Ben Moseley], [Chenyang Xu], Ruilong Zhang. <br />
-  ECML/PKDD 2023.
+  ECML/PKDD 2023
 * Online Dynamic Acknowledgement with Learned Predictions. ([Full Version](https://arxiv.org/abs/2305.18227)) <br />
   [Sungjin Im], [Ben Moseley], [Chenyang Xu], Ruilong Zhang. <br />
-  INFOCOM 2023.
+  INFOCOM 2023
 * Min-max Submodular Ranking for Multiple Agents. ([Full Version](http://arxiv.org/abs/2212.07682)) <br />
   [Qingyun Chen], [Sungjin Im], [Ben Moseley], [Chenyang Xu], Ruilong Zhang. <br />
-  AAAI 2023.
+  AAAI 2023
 * Multiagent MST Cover: Pleasing All Optimally via A Simple Voting Rule. ([Full Version](https://arxiv.org/abs/2211.13578)) <br />
   [Bo Li], [Xiaowei Wu], [Chenyang Xu], Ruilong Zhang. <br />
-  AAAI 2023.
+  AAAI 2023
 * Fair Scheduling for Time-dependent Resource. ([Link](https://proceedings.neurips.cc/paper/2021/file/b5b1d9ada94bb80609d21eecf7a2ce7a-Paper.pdf)) ([Full Version](https://arxiv.org/abs/2107.11648)) <br />
   [Bo Li], [Minming Li], Ruilong Zhang. <br />
-  NeurIPS 2021.
+  NeurIPS 2021
 * Improved Scheduling with a Shared Resource via Structural Insights. ([Link](https://link.springer.com/content/pdf/10.1007/978-3-030-64843-5_12.pdf?pdf=inline%20link)) <br />
   Christoph Damerius, [Peter Kling], [Minming Li], Florian Schneider, Ruilong Zhang. <br />
-  COCOA 2020.
+  COCOA 2020
 * Minimizing the Cost of Batch Calibrations. ([Link](https://link.springer.com/content/pdf/10.1007/978-3-030-26176-4_7.pdf)) <br />
   [Vincent Chau], [Minming Li], Yinling Wang, Ruilong Zhang, Yingchao Zhao. <br />
-  COCOON 2019.
+  COCOON 2019
 
 
 Journals:
