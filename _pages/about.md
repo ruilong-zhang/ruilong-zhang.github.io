@@ -27,7 +27,7 @@ I am currently an incoming postdoc at the University of Toronto. Previously, I w
 
 During my grad school and postdoc, I was a long-term visitor at Carnegie Mellon University, where I worked with Prof. [Ben Moseley] and Prof. [Sungjin Im]. I was also a short-term visitor in [Theory Group](https://tcs.nju.edu.cn/) at Nanjing University, in Prof. [Xiaowei Wu]'s group at the University of Macau, in Prof. [Peter Kling]'s group at the University of Hamburg.
 
-More information can be found in my [CV](/files/CV.pdf) (Last updated: Dec 03, 2022). 
+<!--- More information can be found in my [CV](/files/CV.pdf) (Last updated: Dec 03, 2022).--> 
 
 Email: ruilongzhang.cn@gmail.com.
 
