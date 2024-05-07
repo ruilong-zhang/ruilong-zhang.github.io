@@ -20,7 +20,7 @@ redirect_from:
 [Bo Li]: https://www4.comp.polyu.edu.hk/~bo2li/
 [Qingyun Chen]: https://qychen44.github.io/
 [Chenhao Wang]: https://chenhwang4.github.io/homepage/
-[Vincent Chau]: https://cse.seu.edu.cn/2021/0318/c23024a364637/pagem.htm
+[Vincent Chau]: https://cse.seu.edu.cn/2021/0318/c23024a364637/page.htm
 [Lijun Li]: https://lijunli1211.github.io/
 
 I am currently an incoming postdoc at the University of Toronto. Previously, I was a postdoc in the Department of Computer Science and Engineering at the University at Buffalo, where I was advised by Prof. [Shi Li]. Before that, I was a Ph.D. student in the Department of Computer Science at the City University of Hong Kong, where I was supervised by Prof. [Minming Li]. Before that, I was an undergrad in Computer Science and Technology at the Hefei University of Technology.
