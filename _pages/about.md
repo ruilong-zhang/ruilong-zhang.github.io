@@ -8,14 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+[Andreas Wiese]: https://www.math.cit.tum.de/math/personen/professuren/wiese-andreas/
+[Stefan Weltge]: https://weltge.de/
 [Shi Li]: https://tcs.nju.edu.cn/shili/
 [Minming Li]: https://www.cs.cityu.edu.hk/~minmli/
-[Xiaowei Wu]: https://sites.google.com/site/wxw0711/
 [Ben Moseley]: https://www.andrew.cmu.edu/user/moseleyb/
 [Sungjin Im]: https://faculty.ucmerced.edu/sim3/
 [Peter Kling]: https://academic.pkling.de/
-[Pinyan Lu]: http://pinyanlu.com/
 
+[Xiaowei Wu]: https://sites.google.com/site/wxw0711/
+[Pinyan Lu]: http://pinyanlu.com/
 [Chenyang Xu]: https://chenyang-1995.github.io/
 [Bo Li]: https://www4.comp.polyu.edu.hk/~bo2li/
 [Qingyun Chen]: https://qychen44.github.io/
