@@ -31,7 +31,7 @@ During my grad school and postdoc, I was a long-term visitor at Carnegie Mellon 
 
 <!--- More information can be found in my [CV](/files/CV.pdf) (Last updated: Dec 03, 2022).--> 
 
-Email: ruilongzhang.cn@gmail.com.
+Email: ruilongzhang.cn@gmail.com; ruilong.zhang@tum.de
 
 Here is my [DBLP](https://dblp.org/pid/233/6329.html).
 
