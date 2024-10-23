@@ -25,7 +25,7 @@ redirect_from:
 [Vincent Chau]: https://cse.seu.edu.cn/2021/0318/c23024a364637/page.htm
 [Lijun Li]: https://lijunli1211.github.io/
 
-I am currently an incoming postdoc at the University of Toronto. Previously, I was a postdoc in the Department of Computer Science and Engineering at the University at Buffalo, where I was advised by Prof. [Shi Li]. Before that, I was a Ph.D. student in the Department of Computer Science at the City University of Hong Kong, where I was supervised by Prof. [Minming Li]. Before that, I was an undergrad in Computer Science and Technology at the Hefei University of Technology.
+I am currently <del>an incoming postdoc at the University of Toronto</del> a postdoc in [Discrete Optimization Group](https://www.math.cit.tum.de/math/forschung/gruppen/discrete-optimization/) at the Technical University of Munich, working with Prof. [Andreas Wiese] and Prof. [Stefan Weltge]. Previously, I was a postdoc in the Department of Computer Science and Engineering at the University at Buffalo, where I was advised by Prof. [Shi Li]. Before that, I was a Ph.D. student in the Department of Computer Science at the City University of Hong Kong, where I was supervised by Prof. [Minming Li]. Before that, I was an undergrad in Computer Science and Technology at the Hefei University of Technology.
 
 During my grad school and postdoc, I was a long-term visitor at Carnegie Mellon University, where I worked with Prof. [Ben Moseley] and Prof. [Sungjin Im]. I was also a short-term visitor in [Theory Group](https://tcs.nju.edu.cn/) at Nanjing University, in Prof. [Xiaowei Wu]'s group at the University of Macau, in Prof. [Peter Kling]'s group at the University of Hamburg.
 
@@ -34,6 +34,8 @@ During my grad school and postdoc, I was a long-term visitor at Carnegie Mellon 
 Email: ruilongzhang.cn@gmail.com.
 
 Here is my [DBLP](https://dblp.org/pid/233/6329.html).
+
+Misc: I finally cannot join the University of Toronto because of a visa issue.
 
 
 Research Interests
