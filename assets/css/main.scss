@@ -40,23 +40,3 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Increase the overall content area width */
-.wrapper {
-    max-width: 1200px !important;  /* Default is around 800px */
-}
-
-/* Expand the main content */
-.page-content {
-    max-width: 1000px !important;
-}
-
-/* Ensure posts and pages also expand */
-.post {
-    max-width: 1000px !important;
-}
-
-/* Optional: Reduce sidebar width */
-.sidebar {
-    width: 220px !important;  /* Adjust as needed */
-}
-
