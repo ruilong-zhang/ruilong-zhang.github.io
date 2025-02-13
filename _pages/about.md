@@ -24,8 +24,10 @@ redirect_from:
 [Chenhao Wang]: https://chenhwang4.github.io/homepage/
 [Vincent Chau]: https://cse.seu.edu.cn/2021/0318/c23024a364637/page.htm
 [Lijun Li]: https://lijunli1211.github.io/
+[Chao Xu]: https://chaoxu.prof/
+[Rufan Bai]: https://sites.google.com/view/rufanbai
 
-I am currently <del>an incoming postdoc at the University of Toronto</del> a postdoc in [Discrete Optimization Group](https://www.math.cit.tum.de/math/forschung/gruppen/discrete-optimization/) at the Technical University of Munich, working with Prof. [Andreas Wiese] and Prof. [Stefan Weltge]. 
+I am currently a postdoc in [Discrete Optimization Group](https://www.math.cit.tum.de/math/forschung/gruppen/discrete-optimization/) at the Technical University of Munich, working with Prof. [Andreas Wiese] and Prof. [Stefan Weltge]. 
 
 Previously, I was a postdoc in the Department of Computer Science and Engineering at the University at Buffalo, where I was advised by Prof. [Shi Li]. Before that, I was a Ph.D. student in the Department of Computer Science at the City University of Hong Kong, where I was supervised by Prof. [Minming Li]. Before that, I was an undergrad in Computer Science and Technology at the Hefei University of Technology.
 
@@ -54,55 +56,61 @@ Per convention of the TCS community, authors of a paper in conference proceeding
     
 Conferences:
 ------
-* Public Events Scheduling with Busy Agents. ([Full Version](https://arxiv.org/abs/2404.11879)) <br />
+* Constant Approximation for Weighted Nash Social Welfare with Submodular Valuations. <br />
+  Yuda Feng, Yang Hu, [Shi Li], Ruilong Zhang. <br />
+  STOC 2025 ([Full Version](https://arxiv.org/abs/2411.02942))
+* Resource-limited Network Security Games with General Contagious Attacks. <br />
+  [Rufan Bai], [Chao Xu], [Chenyang Xu], Ruilong Zhang. <br />
+  COCOON 2024
+* Public Events Scheduling with Busy Agents.  <br />
   [Bo Li], [Lijun Li], [Minming Li], Ruilong Zhang. <br />
-  IJCAI 2024
-* Polylogarithmic Approximations for Robust s-t Path. ([Full Version](https://arxiv.org/abs/2305.16439)) <br />
+  IJCAI 2024 ([Full Version](https://arxiv.org/abs/2404.11879))
+* Polylogarithmic Approximations for Robust s-t Path.  <br />
   [Shi Li], [Chenyang Xu], Ruilong Zhang. <br />
-  ICALP 2024
-* Sampling for Beyond-Worst-Case Online Ranking. ([Link](https://ojs.aaai.org/index.php/AAAI/article/view/30051)) <br />
+  ICALP 2024 ([Full Version](https://arxiv.org/abs/2305.16439))
+* Sampling for Beyond-Worst-Case Online Ranking.  <br />
   [Qingyun Chen], [Sungjin Im], [Ben Moseley], [Chenyang Xu], Ruilong Zhang. <br />
-  AAAI 2024
-* Auction Design for Value Maximizers with Budget Constraints and Return-on-spend Constraints. ([Full Version](https://arxiv.org/abs/2307.04302)) <br/>
+  AAAI 2024 ([Link](https://ojs.aaai.org/index.php/AAAI/article/view/30051))
+* Auction Design for Value Maximizers with Budget Constraints and Return-on-spend Constraints.  <br/>
   [Pinyan Lu], [Chenyang Xu], Ruilong Zhang. <br />
-  WINE 2023
-* Scheduling with a Limited Testing Budget. ([Full Version](https://arxiv.org/abs/2306.15597)) <br />
+  WINE 2023 ([Full Version](https://arxiv.org/abs/2307.04302))
+* Scheduling with a Limited Testing Budget.  <br />
   Christoph Damerius, [Peter Kling], [Minming Li], [Chenyang Xu], Ruilong Zhang. <br />
-  ESA 2023
-* Online State Exploration: Competitive Worst Case and Learning-Augmented Algorithms. ([Link](https://link.springer.com/chapter/10.1007/978-3-031-43421-1_20)) <br />
+  ESA 2023 ([Full Version](https://arxiv.org/abs/2306.15597))
+* Online State Exploration: Competitive Worst Case and Learning-Augmented Algorithms.  <br />
   [Sungjin Im], [Ben Moseley], [Chenyang Xu], Ruilong Zhang. <br />
-  ECML/PKDD 2023
-* Online Dynamic Acknowledgement with Learned Predictions. ([Full Version](https://arxiv.org/abs/2305.18227)) <br />
+  ECML/PKDD 2023 ([Link](https://link.springer.com/chapter/10.1007/978-3-031-43421-1_20))
+* Online Dynamic Acknowledgement with Learned Predictions.  <br />
   [Sungjin Im], [Ben Moseley], [Chenyang Xu], Ruilong Zhang. <br />
-  INFOCOM 2023
-* Min-max Submodular Ranking for Multiple Agents. ([Full Version](http://arxiv.org/abs/2212.07682)) <br />
+  INFOCOM 2023 ([Full Version](https://arxiv.org/abs/2305.18227))
+* Min-max Submodular Ranking for Multiple Agents.  <br />
   [Qingyun Chen], [Sungjin Im], [Ben Moseley], [Chenyang Xu], Ruilong Zhang. <br />
-  AAAI 2023
-* Multiagent MST Cover: Pleasing All Optimally via A Simple Voting Rule. ([Full Version](https://arxiv.org/abs/2211.13578)) <br />
+  AAAI 2023 ([Full Version](http://arxiv.org/abs/2212.07682))
+* Multiagent MST Cover: Pleasing All Optimally via A Simple Voting Rule.  <br />
   [Bo Li], [Xiaowei Wu], [Chenyang Xu], Ruilong Zhang. <br />
-  AAAI 2023
-* Fair Scheduling for Time-dependent Resources. ([Link](https://proceedings.neurips.cc/paper/2021/file/b5b1d9ada94bb80609d21eecf7a2ce7a-Paper.pdf)) ([Full Version](https://arxiv.org/abs/2107.11648)) <br />
+  AAAI 2023 ([Full Version](https://arxiv.org/abs/2211.13578))
+* Fair Scheduling for Time-dependent Resources.  <br />
   [Bo Li], [Minming Li], Ruilong Zhang. <br />
-  NeurIPS 2021
-* Improved Scheduling with a Shared Resource via Structural Insights. ([Link](https://link.springer.com/content/pdf/10.1007/978-3-030-64843-5_12.pdf?pdf=inline%20link)) <br />
+  NeurIPS 2021 ([Link](https://proceedings.neurips.cc/paper/2021/file/b5b1d9ada94bb80609d21eecf7a2ce7a-Paper.pdf)) ([Full Version](https://arxiv.org/abs/2107.11648))
+* Improved Scheduling with a Shared Resource via Structural Insights.  <br />
   Christoph Damerius, [Peter Kling], [Minming Li], Florian Schneider, Ruilong Zhang. <br />
-  COCOA 2020
-* Minimizing the Cost of Batch Calibrations. ([Link](https://link.springer.com/content/pdf/10.1007/978-3-030-26176-4_7.pdf)) <br />
+  COCOA 2020 ([Link](https://link.springer.com/content/pdf/10.1007/978-3-030-64843-5_12.pdf?pdf=inline%20link))
+* Minimizing the Cost of Batch Calibrations.  <br />
   [Vincent Chau], [Minming Li], Yinling Wang, Ruilong Zhang, Yingchao Zhao. <br />
-  COCOON 2019
+  COCOON 2019 ([Link](https://link.springer.com/content/pdf/10.1007/978-3-030-26176-4_7.pdf))
 
 
 Journals:
 ------
-* Online Scheduling of Parallelizable Jobs in the Directed Acyclic Graphs and Speed-up Curves Models. ([Link](https://www.sciencedirect.com/science/article/pii/S0304397522005898)) <br />
+* Online Scheduling of Parallelizable Jobs in the Directed Acyclic Graphs and Speed-up Curves Models.  <br />
   [Ben Moseley], Ruilong Zhang, Shanjiawen Zhao. <br />
-  Theoretical Computer Science (2022).
-* A Note on the Online Interval Scheduling Secretary Problem. ([Link](https://www.sciencedirect.com/science/article/pii/S0167637721001772)) <br />
+  Theoretical Computer Science (2022) ([Link](https://www.sciencedirect.com/science/article/pii/S0304397522005898))
+* A Note on the Online Interval Scheduling Secretary Problem.  <br />
   [Bo Li], [Chenhao Wang], Ruilong Zhang. <br />
-  Operations Research Letters (2022).
-* Minimizing the Cost of Batch Calibrations. ([Link](https://www.sciencedirect.com/science/article/pii/S0304397520302309)) <br />
+  Operations Research Letters (2022) ([Link](https://www.sciencedirect.com/science/article/pii/S0167637721001772))
+* Minimizing the Cost of Batch Calibrations.  <br />
   [Vincent Chau], [Minming Li], Yinling Wang, Ruilong Zhang, Yingchao Zhao. <br />
-  Theoretical Computer Science (2020). <br />
+  Theoretical Computer Science (2020) ([Link](https://www.sciencedirect.com/science/article/pii/S0304397520302309)) <br />
   A preliminary version appears in COCOON 2019.
   
 <!--  
@@ -110,4 +118,4 @@ Journals:
 -->
 
  
-Last updated: May 07, 2024.
+Last updated: Feb 13, 2025.
