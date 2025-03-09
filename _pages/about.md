@@ -61,7 +61,7 @@ Conferences:
   STOC 2025 ([Full Version](https://arxiv.org/abs/2411.02942))
 * Resource-limited Network Security Games with General Contagious Attacks. <br />
   [Rufan Bai], [Chao Xu], [Chenyang Xu], Ruilong Zhang. <br />
-  COCOON 2024
+  COCOON 2024 ([Link](https://link.springer.com/chapter/10.1007/978-981-96-1093-8_7))
 * Public Events Scheduling with Busy Agents.  <br />
   [Bo Li], [Lijun Li], [Minming Li], Ruilong Zhang. <br />
   IJCAI 2024 ([Full Version](https://arxiv.org/abs/2404.11879))
