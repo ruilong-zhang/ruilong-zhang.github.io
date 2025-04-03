@@ -102,6 +102,9 @@ Conferences:
 
 Journals:
 ------
+* Scheduling with Calibrations for Multi-interval Jobs. <br />
+  [Vincent Chau], Christoph Damerius, [Peter Kling], [Minming Li], Florian Schneider, Ruilong Zhang. <br />
+  INFORMS Journal on Computing (2025) ([Link](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2023.0430))
 * Online Scheduling of Parallelizable Jobs in the Directed Acyclic Graphs and Speed-up Curves Models.  <br />
   [Ben Moseley], Ruilong Zhang, Shanjiawen Zhao. <br />
   Theoretical Computer Science (2022) ([Link](https://www.sciencedirect.com/science/article/pii/S0304397522005898))
