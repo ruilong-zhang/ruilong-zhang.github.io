@@ -13,7 +13,7 @@ redirect_from:
 [Shi Li]: https://tcs.nju.edu.cn/shili/
 [Minming Li]: https://www.cs.cityu.edu.hk/~minmli/
 [Ben Moseley]: https://www.andrew.cmu.edu/user/moseleyb/
-[Sungjin Im]: https://faculty.ucmerced.edu/sim3/
+[Sungjin Im]: [https://faculty.ucmerced.edu/sim3/](https://sites.google.com/view/sungjinim)
 [Peter Kling]: https://academic.pkling.de/
 
 [Xiaowei Wu]: https://sites.google.com/site/wxw0711/
