@@ -45,12 +45,6 @@ Misc: I finally cannot join the University of Toronto because of a visa issue.
 Research Interests
 ======
 I am broadly interested in algorithm design and analysis for combinatorial optimization problems. More specifically, I study approximation and online algorithms for resource allocation, network design, and submodular optimization problems.
-<!---
-I am broadly interested in algorithm design and analysis for combinatorial optimization problems. More specifically, I aim to design approximation and online algorithms with worst-case guarantees under different computational models: offline, online, computational economics, machine learning, and artificial intelligence.
-* Approximation and Online Algorithms on Combinatorial Optimization <br />
-* Scheduling and Network Design <br />
-* Algorithmic Fairness; Multiagent System; Machine Learning Foundations <br /> --->
-
 
 Publications
 ======
