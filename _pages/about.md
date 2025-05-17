@@ -14,8 +14,8 @@ redirect_from:
 [Minming Li]: https://www.cs.cityu.edu.hk/~minmli/
 [Ben Moseley]: https://www.andrew.cmu.edu/user/moseleyb/
 [Sungjin Im]: https://sites.google.com/view/sungjinim
-[Peter Kling]: https://academic.pkling.de/
 
+[Peter Kling]: https://academic.pkling.de/
 [Xiaowei Wu]: https://sites.google.com/site/wxw0711/
 [Pinyan Lu]: http://pinyanlu.com/
 [Chenyang Xu]: https://chenyang-1995.github.io/
@@ -26,6 +26,8 @@ redirect_from:
 [Lijun Li]: https://lijunli1211.github.io/
 [Chao Xu]: https://chaoxu.prof/
 [Rufan Bai]: https://sites.google.com/view/rufanbai
+[Xiaohui Bei]: https://personal.ntu.edu.sg/xhbei/
+[Lars Rohwedder]: https://larsrohwedder.com/
 
 I am currently a postdoc in [Discrete Optimization Group](https://www.math.cit.tum.de/math/forschung/gruppen/discrete-optimization/) at the Technical University of Munich, working with Prof. [Andreas Wiese] and Prof. [Stefan Weltge]. 
 
