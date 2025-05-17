@@ -88,10 +88,10 @@ Conferences:
 * [Fair Scheduling for Time-dependent Resources](https://arxiv.org/abs/2107.11648).  <br />
   [Bo Li], [Minming Li], Ruilong Zhang. <br />
   NeurIPS 2021 
-* [Improved Scheduling with a Shared Resource via Structural Insights](https://link.springer.com/content/pdf/10.1007/978-3-030-64843-5_12.pdf?pdf=inline%20link).  <br />
+* [Improved Scheduling with a Shared Resource via Structural Insights](https://link.springer.com/chapter/10.1007/978-3-030-64843-5_12).  <br />
   Christoph Damerius, [Peter Kling], [Minming Li], Florian Schneider, Ruilong Zhang. <br />
   COCOA 2020 
-* [Minimizing the Cost of Batch Calibrations](https://link.springer.com/content/pdf/10.1007/978-3-030-26176-4_7.pdf).  <br />
+* [Minimizing the Cost of Batch Calibrations](https://www.sciencedirect.com/science/article/pii/S0304397520302309).  <br />
   [Vincent Chau], [Minming Li], Yinling Wang, Ruilong Zhang, Yingchao Zhao. <br />
   COCOON 2019 
 
