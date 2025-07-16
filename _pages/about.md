@@ -29,7 +29,7 @@ redirect_from:
 [Xiaohui Bei]: https://personal.ntu.edu.sg/xhbei/
 [Lars Rohwedder]: https://larsrohwedder.com/
 
-I am currently a postdoc in [Discrete Optimization Group](https://www.math.cit.tum.de/math/forschung/gruppen/discrete-optimization/) at the Technical University of Munich, working with Prof. [Andreas Wiese] and Prof. [Stefan Weltge]. 
+I am currently a postdoc in [Discrete Optimization Group](https://www.math.cit.tum.de/math/forschung/gruppen/discrete-optimization/) at the Technical University of Munich, working with Prof. [Andreas Wiese] and Prof. [Stefan Weltge].
 
 Previously, I was a postdoc in the Department of Computer Science and Engineering at the University at Buffalo, where I was advised by Prof. [Shi Li]. Before that, I was a Ph.D. student in the Department of Computer Science at the City University of Hong Kong, where I was supervised by Prof. [Minming Li]. Before that, I was an undergrad in Computer Science and Technology at the Hefei University of Technology.
 
@@ -41,7 +41,7 @@ Email: ruilongzhang.cn@gmail.com; ruilong.zhang@tum.de
 
 Here is my [DBLP](https://dblp.org/pid/233/6329.html).
 
-Misc: I finally cannot join the University of Toronto because of a visa issue.
+Misc: I cannot finally join the University of Toronto because of a visa issue.
 
 
 Research Interests
@@ -51,12 +51,19 @@ I am broadly interested in algorithm design and analysis for combinatorial optim
 Publications
 ======
 Per convention of the TCS community, authors of a paper in conference proceedings or journals have equal contributions and are sorted alphabetically.
-    
-Conferences:
-------
+
+* [Logarithmic Approximations for Fair k-Set Selection](https://arxiv.org/abs/2505.12123). <br />
+  [Shi Li], [Chenyang Xu], Ruilong Zhang. <br />
+  IJCAI 2025
+* [Fair Submodular Maximization over a Knapsack Constraint](https://arxiv.org/abs/2505.12126). <br />
+  [Lijun Li], [Chenyang Xu], Liuyi Yang, Ruilong Zhang. <br />
+  IJCAI 2025
 * [Constant Approximation for Weighted Nash Social Welfare with Submodular Valuations](https://arxiv.org/abs/2411.02942). <br />
   Yuda Feng, Yang Hu, [Shi Li], Ruilong Zhang. <br />
-  STOC 2025 
+  STOC 2025
+* [Scheduling with Calibrations for Multi-interval Jobs](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2023.0430). <br />
+  [Vincent Chau], Christoph Damerius, [Peter Kling], [Minming Li], Florian Schneider, Ruilong Zhang. <br />
+  INFORMS Journal on Computing (2025) 
 * [Resource-limited Network Security Games with General Contagious Attacks](https://link.springer.com/chapter/10.1007/978-981-96-1093-8_7). <br />
   [Rufan Bai], [Chao Xu], [Chenyang Xu], Ruilong Zhang. <br />
   COCOON 2024 
@@ -86,7 +93,13 @@ Conferences:
   AAAI 2023 
 * [Multiagent MST Cover: Pleasing All Optimally via A Simple Voting Rule](https://arxiv.org/abs/2211.13578).  <br />
   [Bo Li], [Xiaowei Wu], [Chenyang Xu], Ruilong Zhang. <br />
-  AAAI 2023 
+  AAAI 2023
+* [Online Scheduling of Parallelizable Jobs in the Directed Acyclic Graphs and Speed-up Curves Models](https://www.sciencedirect.com/science/article/pii/S0304397522005898).  <br />
+  [Ben Moseley], Ruilong Zhang, Shanjiawen Zhao. <br />
+  Theoretical Computer Science (2022)
+* [A Note on the Online Interval Scheduling Secretary Problem](https://www.sciencedirect.com/science/article/pii/S0167637721001772).  <br />
+  [Bo Li], [Chenhao Wang], Ruilong Zhang. <br />
+  Operations Research Letters (2022)
 * [Fair Scheduling for Time-dependent Resources](https://arxiv.org/abs/2107.11648).  <br />
   [Bo Li], [Minming Li], Ruilong Zhang. <br />
   NeurIPS 2021 
@@ -95,28 +108,13 @@ Conferences:
   COCOA 2020 
 * [Minimizing the Cost of Batch Calibrations](https://www.sciencedirect.com/science/article/pii/S0304397520302309).  <br />
   [Vincent Chau], [Minming Li], Yinling Wang, Ruilong Zhang, Yingchao Zhao. <br />
-  COCOON 2019 
+  COCOON 2019 <br />
+  [Journal version](https://www.sciencedirect.com/science/article/pii/S0304397520302309) in Theoretical Computer Science (2020)
 
-
-Journals:
-------
-* [Scheduling with Calibrations for Multi-interval Jobs](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2023.0430). <br />
-  [Vincent Chau], Christoph Damerius, [Peter Kling], [Minming Li], Florian Schneider, Ruilong Zhang. <br />
-  INFORMS Journal on Computing (2025) 
-* [Online Scheduling of Parallelizable Jobs in the Directed Acyclic Graphs and Speed-up Curves Models](https://www.sciencedirect.com/science/article/pii/S0304397522005898).  <br />
-  [Ben Moseley], Ruilong Zhang, Shanjiawen Zhao. <br />
-  Theoretical Computer Science (2022) 
-* [A Note on the Online Interval Scheduling Secretary Problem](https://www.sciencedirect.com/science/article/pii/S0167637721001772).  <br />
-  [Bo Li], [Chenhao Wang], Ruilong Zhang. <br />
-  Operations Research Letters (2022)
-* [Minimizing the Cost of Batch Calibrations](https://www.sciencedirect.com/science/article/pii/S0304397520302309).  <br />
-  [Vincent Chau], [Minming Li], Yinling Wang, Ruilong Zhang, Yingchao Zhao. <br />
-  Theoretical Computer Science (2020) <br />
-  A preliminary version appears in COCOON 2019.
   
 <!--  
 <a href='https://clustrmaps.com/site/1brpd'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=400&t=n&d=2rhhoH7WBkKYgl0_ZfYoJYNvtdugB1TAWbKt6TOSJqM'/></a> 
 -->
 
  
-Last updated: Feb 13, 2025.
+Last updated: Jul 16, 2025.
