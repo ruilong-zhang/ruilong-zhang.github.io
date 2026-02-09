@@ -29,19 +29,23 @@ redirect_from:
 [Xiaohui Bei]: https://personal.ntu.edu.sg/xhbei/
 [Lars Rohwedder]: https://larsrohwedder.com/
 
-I am currently a postdoc in [Discrete Optimization Group](https://www.math.cit.tum.de/math/forschung/gruppen/discrete-optimization/) at the Technical University of Munich, working with Prof. [Andreas Wiese] and Prof. [Stefan Weltge].
+I am currently an assistant professor of Computer Science at [City University of Hong Kong (Dongguan)](https://www.cityu-dg.edu.cn/en/home). Previously, I was a
+* postdoc in [Discrete Optimization Group](https://www.math.cit.tum.de/math/forschung/gruppen/discrete-optimization/) at the Technical University of Munich, advised by Prof. [Andreas Wiese] and Prof. [Stefan Weltge];
+* postdoc in the Department of Computer Science and Engineering at the University at Buffalo, advised by Prof. [Shi Li];
+* a Ph.D. student in the Department of Computer Science at the City University of Hong Kong, supervised by Prof. [Minming Li];
+* a long-term visiting Ph.D student at Carnegie Mellon University, hosted by Prof. [Ben Moseley] and Prof. [Sungjin Im];
+* undergrad in Computer Science and Technology at the Hefei University of Technology.
 
-Previously, I was a postdoc in the Department of Computer Science and Engineering at the University at Buffalo, where I was advised by Prof. [Shi Li]. Before that, I was a Ph.D. student in the Department of Computer Science at the City University of Hong Kong, where I was supervised by Prof. [Minming Li]. Before that, I was an undergrad in Computer Science and Technology at the Hefei University of Technology.
 
-During my grad school and postdoc, I was a long-term visitor at Carnegie Mellon University, where I worked with Prof. [Ben Moseley] and Prof. [Sungjin Im]. I was also a short-term visitor in [Theory Group](https://tcs.nju.edu.cn/) at Nanjing University, in Prof. [Xiaowei Wu]'s group at the University of Macau, in Prof. [Peter Kling]'s group at the University of Hamburg.
+<!--- More information can be found in my [CV](/files/CV.pdf) (Last updated: Dec 03, 2022).
+Misc: I cannot finally join the University of Toronto because of a visa issue.
+--> 
 
-<!--- More information can be found in my [CV](/files/CV.pdf) (Last updated: Dec 03, 2022).--> 
-
-Email: ruilongzhang.cn@gmail.com; ruilong.zhang@tum.de
+Email: ruilong.zhang@cityu-dg.edu.cn
 
 Here is my [DBLP](https://dblp.org/pid/233/6329.html).
 
-Misc: I cannot finally join the University of Toronto because of a visa issue.
+
 
 
 Research Interests
@@ -51,7 +55,12 @@ I am broadly interested in algorithm design and analysis for combinatorial optim
 Publications
 ======
 Per convention of the TCS community, authors of a paper in conference proceedings or journals have equal contributions and are sorted alphabetically.
-
+* [Nash Social Welfare with Submodular Valuations: Approximation Algorithms and Integrality Gaps](https://arxiv.org/abs/2504.09669). <br />
+  [Xiaohui Bei], Yuda Feng, Yang Hu, [Shi Li], Ruilong Zhang. <br />
+  STOC 2026
+* [A Beyond-Worst-Case Analysis of Greedy k-means++](https://openreview.net/pdf/b1f433b579d9a5be326162a97fd36cdddfa11f9b.pdf). <br />
+  [Qingyun Chen], [Sungjin Im], Ryan Milstrey, [Ben Moseley], [Chenyang Xu], Ruilong Zhang. <br />
+  NeurIPS 2025
 * [Logarithmic Approximations for Fair k-Set Selection](https://arxiv.org/abs/2505.12123). <br />
   [Shi Li], [Chenyang Xu], Ruilong Zhang. <br />
   IJCAI 2025
@@ -117,4 +126,4 @@ Per convention of the TCS community, authors of a paper in conference proceeding
 -->
 
  
-Last updated: Jul 16, 2025.
+Last updated: Feb 10, 2026.
