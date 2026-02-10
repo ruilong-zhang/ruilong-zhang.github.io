@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ruilong Zhang"
   avatar           : "photo.jpg"
-  bio              : "Postdoc"
-  location         : "Munich"
+  bio              : "Assisant Professor"
+  location         : "Songshan Lake"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  "https://scholar.google.com/citations?user=ZNt8U4UAAAAJ&hl=en"
-  email            : "ruilongzhang.cn@gmail.com"
+  email            : "ruilong.zhang@cityu-dg.edu.cn"
   #email            : ruilzhang4-c@my.cityu.edu.hk
   dblp             : "https://dblp.org/pid/233/6329.html"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
