@@ -32,7 +32,7 @@ redirect_from:
 I am currently an assistant professor of Computer Science at [City University of Hong Kong (Dongguan)](https://www.cityu-dg.edu.cn/en/home). Previously, I was a
 * postdoc in [Discrete Optimization Group](https://www.math.cit.tum.de/math/forschung/gruppen/discrete-optimization/) at the Technical University of Munich, advised by Prof. [Andreas Wiese] and Prof. [Stefan Weltge];
 * postdoc in the Department of Computer Science and Engineering at University at Buffalo, advised by Prof. [Shi Li];
-* Ph.D. student in the Department of Computer Science at City University of Hong Kong, supervised by Prof. [Minming Li];
+* Ph.D. student in the Department of Computer Science at City University of Hong Kong, advised by Prof. [Minming Li];
 * long-term visiting Ph.D student at Carnegie Mellon University, hosted by Prof. [Ben Moseley] and Prof. [Sungjin Im];
 * undergrad in Computer Science and Technology at the Hefei University of Technology.
 
