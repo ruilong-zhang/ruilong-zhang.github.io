@@ -58,7 +58,7 @@ Per convention of the TCS community, authors of a paper in conference proceeding
 * [Nash Social Welfare with Submodular Valuations: Approximation Algorithms and Integrality Gaps](https://arxiv.org/abs/2504.09669). <br />
   [Xiaohui Bei], Yuda Feng, Yang Hu, [Shi Li], Ruilong Zhang. <br />
   STOC 2026
-* [A Beyond-Worst-Case Analysis of Greedy k-means++](https://openreview.net/pdf/b1f433b579d9a5be326162a97fd36cdddfa11f9b.pdf). <br />
+* [A Beyond-Worst-Case Analysis of Greedy k-means++](https://openreview.net/pdf?id=2ym6uVbgMN). <br />
   [Qingyun Chen], [Sungjin Im], Ryan Milstrey, [Ben Moseley], [Chenyang Xu], Ruilong Zhang. <br />
   NeurIPS 2025
 * [Logarithmic Approximations for Fair k-Set Selection](https://arxiv.org/abs/2505.12123). <br />
