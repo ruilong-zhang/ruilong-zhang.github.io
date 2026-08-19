@@ -28,6 +28,7 @@ redirect_from:
 [Rufan Bai]: https://sites.google.com/view/rufanbai
 [Xiaohui Bei]: https://personal.ntu.edu.sg/xhbei/
 [Lars Rohwedder]: https://larsrohwedder.com/
+[Fabrizio Grandoni]: https://people.idsia.ch/~grandoni/
 
 I am currently an assistant professor of Computer Science at [City University of Hong Kong (Dongguan)](https://www.cityu-dg.edu.cn/en/home). Previously, I was a
 * postdoc in [Discrete Optimization Group](https://www.math.cit.tum.de/math/forschung/gruppen/discrete-optimization/) at the Technical University of Munich, advised by Prof. [Andreas Wiese] and Prof. [Stefan Weltge];
@@ -55,6 +56,12 @@ I am broadly interested in algorithm design and analysis for combinatorial optim
 Publications
 ======
 Per convention of the TCS community, authors of a paper in conference proceedings or journals have equal contributions and are sorted alphabetically.
+* [An O(log log n) Approximation Algorithm for Submodular Unsplittable Flow on Path](). <br />
+  Alexander Armbruster, [Fabrizio Grandoni],  [Andreas Wiese], Ruilong Zhang. <br />
+  FOCS 2026
+* [Multiplicative Assignment with Upgrading](https://arxiv.org/abs/2504.07663). <br />
+  Alexander Armbruster, [Lars Rohwedder], [Stefan Weltge], [Andreas Wiese], Ruilong Zhang. <br />
+  ICALP 2026
 * [Nash Social Welfare with Submodular Valuations: Approximation Algorithms and Integrality Gaps](https://arxiv.org/abs/2504.09669). <br />
   [Xiaohui Bei], Yuda Feng, Yang Hu, [Shi Li], Ruilong Zhang. <br />
   STOC 2026
@@ -126,4 +133,4 @@ Per convention of the TCS community, authors of a paper in conference proceeding
 -->
 
  
-Last updated: Feb 10, 2026.
+Last updated: Aug 19, 2026.
