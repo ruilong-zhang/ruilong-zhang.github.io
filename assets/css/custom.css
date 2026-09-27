@@ -4,3 +4,12 @@
   padding-left: 20px !important;
   padding-right: 20px !important;
 }
+
+/* Reduce the outer margins on wide screens and keep the site sections aligned. */
+@media (min-width: 80em) {
+  #main,
+  .masthead__inner-wrap,
+  .page__footer footer {
+    max-width: 1800px !important;
+  }
+}
