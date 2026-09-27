@@ -44,8 +44,6 @@ Misc: I cannot finally join the University of Toronto because of a visa issue.
 
 Email: ruilong.zhang@cityu-dg.edu.cn
 
-Here is my [DBLP](https://dblp.org/pid/233/6329.html).
-
 
 
 
